@@ -13,7 +13,7 @@ Goal:
 
 | Day | Topic | Status |
 |----|------|------|
-| Day 1 | Python Basics (print, variables, data types) | ⬜ |
+| Day 1 | Python Basics (print, variables, data types) | ☑️ |
 | Day 2 | Input, Type Casting, Calculator | ⬜ |
 | Day 3 | Conditional Statements | ⬜ |
 | Day 4 | Loops (for, while) | ⬜ |
@@ -60,3 +60,17 @@ Goal:
 # 🚀 Started On
 
 Date: 11/03/2026
+
+
+# 🏁 Day 1 Complete
+
+✅ Learned the basics of Python  
+✅ Practiced the `print()` function  
+✅ Created and used variables  
+✅ Learned basic data types (`str`, `int`, `float`, `Boolean`)  
+✅ Practiced writing simple Python programs  
+
+Today I wrote my first Python programs and understood how Python executes code line by line.  
+This marks the beginning of the **30 Days of Python challenge**.
+
+🚀 **Day 1 Status:** Completed
