@@ -14,7 +14,7 @@ Goal:
 | Day | Topic | Status |
 |----|------|------|
 | Day 1 | Python Basics (print, variables, data types) | ☑️ |
-| Day 2 | Input, Type Casting, Calculator | ⬜ |
+| Day 2 | Input, Type Casting, Calculator | ☑️ |
 | Day 3 | Conditional Statements | ⬜ |
 | Day 4 | Loops (for, while) | ⬜ |
 | Day 5 | break, continue, pass | ⬜ |
