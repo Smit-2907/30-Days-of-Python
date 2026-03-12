@@ -63,7 +63,6 @@ Date: 11/03/2026
 
 
 # 🏁 Day 1 Complete
-
 ✅ Learned the basics of Python  
 ✅ Practiced the `print()` function  
 ✅ Created and used variables  
@@ -74,3 +73,16 @@ Today I wrote my first Python programs and understood how Python executes code l
 This marks the beginning of the **30 Days of Python challenge**.
 
 🚀 **Day 1 Status:** Completed
+
+# 🏁 Day 2 Complete
+
+✅ Learned how to take input from users using `input()`  
+✅ Practiced creating interactive Python programs  
+✅ Learned about type conversion using `int()` and `float()`  
+✅ Performed basic calculations with user input  
+✅ Built small programs that interact with users  
+
+Today I learned how Python programs can accept input from users and perform operations on that data.  
+This helped me understand how to make Python programs more dynamic and interactive.
+
+🚀 **Day 2 Status:** Completed

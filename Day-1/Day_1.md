@@ -108,11 +108,11 @@ Use the `type()` function to check data types.
 
 # ✅ Day 1 Completion Checklist
 
-- [ ] Ran first Python program
-- [ ] Practiced `print()`
-- [ ] Created variables
-- [ ] Learned variable naming rules
-- [ ] Used different data types
-- [ ] Printed variables in sentences
-- [ ] Solved exercises
-- [ ] Completed mini challenge
+- [*] Ran first Python program
+- [*] Practiced `print()`
+- [*] Created variables
+- [*] Learned variable naming rules
+- [*] Used different data types
+- [*] Printed variables in sentences
+- [*] Solved exercises
+- [*] Completed mini challenge
