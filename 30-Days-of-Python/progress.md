@@ -68,7 +68,6 @@ Date: 11/03/2026
 ✅ Created and used variables  
 ✅ Learned basic data types (`str`, `int`, `float`, `Boolean`)  
 ✅ Practiced writing simple Python programs  
-
 Today I wrote my first Python programs and understood how Python executes code line by line.  
 This marks the beginning of the **30 Days of Python challenge**.
 
@@ -81,7 +80,6 @@ This marks the beginning of the **30 Days of Python challenge**.
 ✅ Learned about type conversion using `int()` and `float()`  
 ✅ Performed basic calculations with user input  
 ✅ Built small programs that interact with users  
-
 Today I learned how Python programs can accept input from users and perform operations on that data.  
 This helped me understand how to make Python programs more dynamic and interactive.
 
@@ -97,5 +95,4 @@ This helped me understand how to make Python programs more dynamic and interacti
 
 Today I learned how Python programs make decisions based on conditions.  
 This is an important step toward building real-world logic in programs.
-
 🚀 **Day 3 Status:** Completed
