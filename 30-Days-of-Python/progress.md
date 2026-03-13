@@ -15,7 +15,7 @@ Goal:
 |----|------|------|
 | Day 1 | Python Basics (print, variables, data types) | ☑️ |
 | Day 2 | Input, Type Casting, Calculator | ☑️ |
-| Day 3 | Conditional Statements | ⬜ |
+| Day 3 | Conditional Statements | ☑️ |
 | Day 4 | Loops (for, while) | ⬜ |
 | Day 5 | break, continue, pass | ⬜ |
 | Day 6 | Strings & String Methods | ⬜ |
@@ -86,3 +86,16 @@ Today I learned how Python programs can accept input from users and perform oper
 This helped me understand how to make Python programs more dynamic and interactive.
 
 🚀 **Day 2 Status:** Completed
+
+# 🏁 Day 3 Complete
+
+✅ Learned how to use `if` statements  
+✅ Practiced decision making in Python programs  
+✅ Used `if`, `elif`, and `else` conditions  
+✅ Worked with comparison operators  
+✅ Built small programs using logical decisions  
+
+Today I learned how Python programs make decisions based on conditions.  
+This is an important step toward building real-world logic in programs.
+
+🚀 **Day 3 Status:** Completed

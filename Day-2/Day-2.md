@@ -94,7 +94,7 @@ Ask the user for temperature in Celsius and convert it to Fahrenheit.
 Hint:
 F = (C × 9/5) + 32
 
-# ✅ Day 1 Completion Checklist
+# ✅ Day 2 Completion Checklist
 
 - [*]Took input from user
 - [*]Used the input() function
