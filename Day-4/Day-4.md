@@ -119,3 +119,12 @@ tells them if the guess is too high or too low
 Example:
 Guess the number: 7
 Too low
+
+# Day 4 Completion Checklist
+
+- [*] Learned for loops
+- [*] Learned while loops
+- [*] Practiced range()
+- [*] Built loop programs
+- [*] Solved exercises
+- [*] Completed mini challenge

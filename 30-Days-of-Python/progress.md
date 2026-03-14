@@ -23,7 +23,7 @@ The purpose of this challenge is to rebuild strong Python fundamentals and gradu
 | Day 1 | Python Basics (print, variables, data types) | ✅ |
 | Day 2 | Input, Type Casting, Calculator | ✅ |
 | Day 3 | Conditional Statements | ✅ |
-| Day 4 | Loops (for, while) | ⬜ |
+| Day 4 | Loops (for, while) | ✅ |
 | Day 5 | break, continue, pass | ⬜ |
 | Day 6 | Strings & String Methods | ⬜ |
 | Day 7 | Mini Project – Password Generator | ⬜ |
@@ -111,3 +111,15 @@ Today I learned how Python programs can **accept user input and process data dyn
 Today I learned how Python programs **make decisions based on conditions**, which is an important step toward building real-world applications.
 
 🚀 **Day 3 Status:** Completed
+
+# 🏁 Day 4 Complete
+
+✅ Learned how `for` loops work  
+✅ Learned how `while` loops work  
+✅ Practiced using the `range()` function  
+✅ Built programs that repeat tasks automatically  
+✅ Used loops to generate sequences of numbers  
+
+Today I learned how loops allow programs to repeat actions efficiently instead of writing repetitive code.
+
+🚀 **Day 4 Status:** Completed
