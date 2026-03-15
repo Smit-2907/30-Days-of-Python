@@ -132,3 +132,12 @@ Correct!
 Hint:
 use while
 use break when correct
+
+✅ Day 5 Completion Checklist
+
+- [*] Learned break
+- [*] Learned continue
+- [*] Learned pass
+- [*] Built loop control programs
+- [*] Solved exercises
+- [*] Completed mini challenge
