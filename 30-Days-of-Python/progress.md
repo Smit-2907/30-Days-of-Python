@@ -20,11 +20,11 @@ The purpose of this challenge is to rebuild strong Python fundamentals and gradu
 
 | Day | Topic | Status |
 |----|------|------|
-| Day 1 | Python Basics (print, variables, data types) | ✅ |
-| Day 2 | Input, Type Casting, Calculator | ✅ |
-| Day 3 | Conditional Statements | ✅ |
-| Day 4 | Loops (for, while) | ✅ |
-| Day 5 | break, continue, pass | ⬜ |
+| Day 1 | Python Basics (print, variables, data types) | ☑️ |
+| Day 2 | Input, Type Casting, Calculator | ☑️ |
+| Day 3 | Conditional Statements | ☑️ |
+| Day 4 | Loops (for, while) | ☑️ |
+| Day 5 | break, continue, pass | ☑️ |
 | Day 6 | Strings & String Methods | ⬜ |
 | Day 7 | Mini Project – Password Generator | ⬜ |
 | Day 8 | Lists | ⬜ |
@@ -123,3 +123,15 @@ Today I learned how Python programs **make decisions based on conditions**, whic
 Today I learned how loops allow programs to repeat actions efficiently instead of writing repetitive code.
 
 🚀 **Day 4 Status:** Completed
+
+# 🏁 Day 5 Complete
+
+✅ Learned how `break` stops a loop immediately  
+✅ Learned how `continue` skips a loop iteration  
+✅ Understood the purpose of `pass` as a placeholder  
+✅ Built programs using loop control statements  
+✅ Practiced solving loop-based problems  
+
+Today I learned how to control loop execution and make programs behave more intelligently using `break`, `continue`, and `pass`.
+
+🚀 **Day 5 Status:** Completed
