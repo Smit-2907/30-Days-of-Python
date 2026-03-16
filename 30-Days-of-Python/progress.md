@@ -171,3 +171,15 @@ Today I learned how loops allow programs to repeat actions efficiently instead o
 Today I learned how to control loop execution and make programs behave more intelligently using `break`, `continue`, and `pass`.
 
 🚀 **Day 5 Status:** Completed
+
+# 🏁 Day 6 Complete
+
+✅ Learned string basics  
+✅ Practiced string indexing and slicing  
+✅ Used important string methods (`upper`, `lower`, `strip`, `replace`, `split`)  
+✅ Solved string algorithm problems  
+✅ Built a word frequency counter program  
+
+Today I learned how to manipulate text using Python strings and how string operations are used to solve logical problems.
+
+🚀 **Day 6 Status:** Completed

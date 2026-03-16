@@ -202,9 +202,9 @@ Use:
 
 # ✅ Day 6 Completion Checklist
 
-- [ ] Learned string basics
-- [ ] Practiced indexing and slicing
-- [ ] Used string methods
-- [ ] Solved string algorithm exercises
-- [ ] Completed mini challenge
-- [ ] Pushed code to GitHub
+- [*] Learned string basics
+- [*] Practiced indexing and slicing
+- [*] Used string methods
+- [*] Solved string algorithm exercises
+- [*] Completed mini challenge
+- [*] Pushed code to GitHub
