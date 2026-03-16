@@ -28,7 +28,7 @@ To improve **logic and problem-solving**, I am also integrating **Data Structure
 | Day 3 | Conditional Statements | ☑️ |
 | Day 4 | Loops (for, while) | ☑️ |
 | Day 5 | break, continue, pass | ☑️ |
-| Day 6 | Strings + String Algorithms (DSA) | ⬜ |
+| Day 6 | Strings + String Algorithms (DSA) | ☑️ |
 | Day 7 | Lists + Array Algorithms (DSA) | ⬜ |
 | Day 8 | Functions | ⬜ |
 | Day 9 | Function Arguments + Lambda | ⬜ |
