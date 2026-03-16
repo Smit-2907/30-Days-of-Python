@@ -4,12 +4,15 @@ This repository documents my **30-day journey of revising and mastering Python**
 
 The purpose of this challenge is to rebuild strong Python fundamentals and gradually move toward **AI / ML development**.
 
+To improve **logic and problem-solving**, I am also integrating **Data Structures & Algorithms (DSA)** practice alongside Python learning.
+
 ---
 
 # 🎯 Goals
 
 - Strengthen **Python fundamentals**
 - Improve **problem solving skills**
+- Practice **Data Structures & Algorithms**
 - Prepare for **AI / Machine Learning development**
 - Build the habit of **coding daily**
 - Practice **writing code without relying on AI**
@@ -25,28 +28,28 @@ The purpose of this challenge is to rebuild strong Python fundamentals and gradu
 | Day 3 | Conditional Statements | ☑️ |
 | Day 4 | Loops (for, while) | ☑️ |
 | Day 5 | break, continue, pass | ☑️ |
-| Day 6 | Strings & String Methods | ⬜ |
-| Day 7 | Mini Project – Password Generator | ⬜ |
-| Day 8 | Lists | ⬜ |
-| Day 9 | List Operations | ⬜ |
-| Day 10 | Tuples | ⬜ |
-| Day 11 | Sets | ⬜ |
-| Day 12 | Dictionaries | ⬜ |
-| Day 13 | Dictionary Methods | ⬜ |
-| Day 14 | Data Structures Revision | ⬜ |
-| Day 15 | Functions | ⬜ |
-| Day 16 | Function Arguments | ⬜ |
-| Day 17 | Lambda Functions | ⬜ |
-| Day 18 | Recursion | ⬜ |
-| Day 19 | Modules & Packages | ⬜ |
-| Day 20 | File Handling | ⬜ |
-| Day 21 | Exception Handling | ⬜ |
-| Day 22 | OOP (Classes & Objects) | ⬜ |
-| Day 23 | OOP (Inheritance, Encapsulation) | ⬜ |
-| Day 24 | Virtual Environments & pip | ⬜ |
-| Day 25 | NumPy Basics | ⬜ |
-| Day 26 | Pandas Basics | ⬜ |
-| Day 27 | Data Visualization | ⬜ |
+| Day 6 | Strings + String Algorithms (DSA) | ⬜ |
+| Day 7 | Lists + Array Algorithms (DSA) | ⬜ |
+| Day 8 | Functions | ⬜ |
+| Day 9 | Function Arguments + Lambda | ⬜ |
+| Day 10 | Recursion (DSA) | ⬜ |
+| Day 11 | Modules & Packages | ⬜ |
+| Day 12 | File Handling | ⬜ |
+| Day 13 | Exception Handling | ⬜ |
+| Day 14 | Mini Project | ⬜ |
+| Day 15 | OOP (Classes & Objects) | ⬜ |
+| Day 16 | OOP + Stack Implementation (DSA) | ⬜ |
+| Day 17 | OOP + Queue Implementation (DSA) | ⬜ |
+| Day 18 | Virtual Environments & pip | ⬜ |
+| Day 19 | Working with APIs | ⬜ |
+| Day 20 | JSON & Data Parsing | ⬜ |
+| Day 21 | Mini Project | ⬜ |
+| Day 22 | NumPy Basics | ⬜ |
+| Day 23 | NumPy Practice | ⬜ |
+| Day 24 | Pandas Basics | ⬜ |
+| Day 25 | Data Cleaning | ⬜ |
+| Day 26 | Data Visualization | ⬜ |
+| Day 27 | Exploratory Data Analysis | ⬜ |
 | Day 28 | Data Analysis Mini Project | ⬜ |
 | Day 29 | Python Automation Script | ⬜ |
 | Day 30 | Final Project | ⬜ |
@@ -57,12 +60,45 @@ The purpose of this challenge is to rebuild strong Python fundamentals and gradu
 
 - Code **every single day**
 - Solve **at least 5 problems**
+- Practice **DSA problems regularly**
 - Build **at least 1 small program**
 - Push progress to **GitHub**
 
 Consistency is the main goal.
 
 ---
+
+# 🚀 Challenge Start Date
+
+**Started On:**  
+11 March 2026
+
+---
+
+# 🧠 Learning Strategy
+
+Each day follows this structure:
+
+1. Learn the **Python concept**
+2. Solve **Python practice problems**
+3. Solve **DSA problems using Python**
+4. Build **one small program**
+
+This approach helps strengthen **logic, coding ability, and real-world problem solving**.
+
+---
+
+# 🎯 End Goal
+
+By the end of this challenge I will have:
+
+- Strong **Python fundamentals**
+- Practical experience with **DSA**
+- Hands-on experience with **NumPy, Pandas, and Data Analysis**
+- Multiple **mini projects**
+- A **final project** showcasing my skills
+
+This challenge is a step toward becoming proficient in **Python for AI / Machine Learning**.
 
 # 🚀 Challenge Start Date
 
