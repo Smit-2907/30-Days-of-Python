@@ -29,7 +29,7 @@ To improve **logic and problem-solving**, I am also integrating **Data Structure
 | Day 4 | Loops (for, while) | ☑️ |
 | Day 5 | break, continue, pass | ☑️ |
 | Day 6 | Strings + String Algorithms (DSA) | ☑️ |
-| Day 7 | Lists + Array Algorithms (DSA) | ⬜ |
+| Day 7 | Lists + Array Algorithms (DSA) | ☑️ |
 | Day 8 | Functions | ⬜ |
 | Day 9 | Function Arguments + Lambda | ⬜ |
 | Day 10 | Recursion (DSA) | ⬜ |
@@ -183,3 +183,15 @@ Today I learned how to control loop execution and make programs behave more inte
 Today I learned how to manipulate text using Python strings and how string operations are used to solve logical problems.
 
 🚀 **Day 6 Status:** Completed
+
+# 🏁 Day 7 Complete
+
+✅ Learned list basics  
+✅ Practiced list indexing and slicing  
+✅ Used important list methods (`append`, `insert`, `remove`)  
+✅ Solved array-based problems  
+✅ Built a To-Do List program  
+
+Today I learned how to store and manipulate collections of data using lists and how array-based logic is used in problem solving.
+
+🚀 **Day 7 Status:** Completed

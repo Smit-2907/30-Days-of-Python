@@ -139,9 +139,9 @@ Use:
 
 # ✅ Day 7 Completion Checklist
 
-- [ ] Learned list basics
-- [ ] Practiced indexing and slicing
-- [ ] Used list methods
-- [ ] Solved array problems
-- [ ] Completed mini project
-- [ ] Pushed code to GitHub
+- [*] Learned list basics
+- [*] Practiced indexing and slicing
+- [*] Used list methods
+- [*] Solved array problems
+- [*] Completed mini project
+- [*] Pushed code to GitHub
