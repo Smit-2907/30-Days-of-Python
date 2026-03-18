@@ -134,9 +134,9 @@ Create separate functions like:
 - divide()
 
 # ✅ Day 8 Completion Checklist
-- [ ] Learned function basics
-- [ ] Practiced parameters and return values
-- [ ] Used default parameters
-- [ ] Solved function-based problems
-- [ ] Completed mini project
-- [ ] Pushed code to GitHub
+- [*] Learned function basics
+- [*] Practiced parameters and return values
+- [*] Used default parameters
+- [*] Solved function-based problems
+- [*] Completed mini project
+- [*] Pushed code to GitHub

@@ -30,7 +30,7 @@ To improve **logic and problem-solving**, I am also integrating **Data Structure
 | Day 5 | break, continue, pass | ☑️ |
 | Day 6 | Strings + String Algorithms (DSA) | ☑️ |
 | Day 7 | Lists + Array Algorithms (DSA) | ☑️ |
-| Day 8 | Functions | ⬜ |
+| Day 8 | Functions | ☑️ |
 | Day 9 | Function Arguments + Lambda | ⬜ |
 | Day 10 | Recursion (DSA) | ⬜ |
 | Day 11 | Modules & Packages | ⬜ |
@@ -195,3 +195,16 @@ Today I learned how to manipulate text using Python strings and how string opera
 Today I learned how to store and manipulate collections of data using lists and how array-based logic is used in problem solving.
 
 🚀 **Day 7 Status:** Completed
+
+# 🏁 Day 8 Complete
+
+✅ Learned function basics  
+✅ Practiced parameters and return values  
+✅ Used default parameters  
+✅ Worked with multiple return values  
+✅ Solved function-based problems  
+✅ Built a calculator using functions  
+
+Today I learned how to write reusable and structured code using functions, making programs cleaner and more efficient.
+
+🚀 **Day 8 Status:** Completed
