@@ -1,9 +1,9 @@
 #  A simple calculator using functions.
 # Features:
-# - Add
-# - Subtract
-# - Multiply
-# - Divide
+# Add
+# Subtract
+# Multiply
+# Divide
 
 def enter_nums():
     num_1 = int(input("Enter Number 1: "))
