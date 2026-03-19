@@ -158,9 +158,9 @@ Use:
 
 # ✅ Day 9 Completion Checklist
 
-- [ ] Learned types of function arguments
-- [ ] Practiced *args and default arguments
-- [ ] Learned lambda functions
-- [ ] Solved function-based problems
+- [*] Learned types of function arguments
+- [*] Practiced *args and default arguments
+- [*] Learned lambda functions
+- [*] Solved function-based problems
 - [ ] Completed mini challenge
 - [ ] Pushed code to GitHub
